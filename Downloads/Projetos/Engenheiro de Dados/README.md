@@ -5,7 +5,7 @@ Um Banco de Dados Relacional tem como caracteristica principal a estruturação 
 
 Um esquema descreve como gravar os dados, descrevendo a estrutura e tipos de tabelas e registros.
 
-A linguagem SQL é organizada em tipos de acordo com a funcionalidade dos comandos. Sendo:
+A linguagem SQL é dividida em conjunto de comandos. Sendo:
 
 * DML - Linguagem de Manipulação de Dados
 * DDL - Linguagem de Definição de Dados
